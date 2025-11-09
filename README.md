@@ -109,22 +109,6 @@ NOTION_API_KEY=your_notion_key
 GOOGLE_CALENDAR_CREDENTIALS_JSON=your_credentials
 ```
 
-## Demo Script
-
-### 2-Minute PM Workbench Demo
-1. Navigate to **Overview** → Click "Try PM Workbench"
-2. **Strategy Agent**: Enter market, segment, goals → Generate strategy (10s)
-3. **Research Agent**: Paste feedback → Analyze insights
-4. **Planning Agent**: Add requirements → Generate backlog and sprint plan
-5. **Export**: Download artifacts as CSV/Markdown
-
-### 90-Second Onboarding Demo
-1. Navigate to **Overview** → Click "Try Onboarding"
-2. Complete 4-step wizard (Company Info → Docs → Controls → Review)
-3. View AI risk score and routing decision
-4. Check **Audit Trail** for immutable events
-
-- Perfect for quick 2-minute pitches
 
 ## Tech Stack
 
