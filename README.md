@@ -299,4 +299,3 @@ MIT
 
 ---
 
-Built with ❤️ using Lovable
